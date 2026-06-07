@@ -12,7 +12,7 @@ Problems: dont copy your layout
 
 Docs: https://github.com/figma/mcp-server-guide
 
-Use in Opencode
+Use in Opencode (in config file "opencode.json")
 ```json
 {
     "$schema": "https://opencode.ai/config.json",
