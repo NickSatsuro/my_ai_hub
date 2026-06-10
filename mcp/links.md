@@ -4,6 +4,7 @@
 To work with Figma (import design to LLM context)
 Problems: working not on all platforms (Cursor and Claude only)
 https://github.com/figma/mcp-server-guide \
+\
 
 ### Figma Developer MCP 
 To work with Figma (import design to LLM context)
